@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BuildappReactNETCoreWebAPIMSQL.props" />
+</Project>
